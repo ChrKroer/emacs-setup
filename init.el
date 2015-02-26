@@ -35,7 +35,6 @@
 
 (load-user-file "ui.el")
 (load-user-file "tex.el")
-(load-user-file "el-get.el")
+;;(load-user-file "el-get.el")
 (load-user-file "c-code.el")
-
 
