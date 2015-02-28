@@ -15,7 +15,9 @@
      auctex-latexmk
      auto-complete
      company
+     company-c-headers
      ecb
+     helm
      solarized-theme
      ))
   ;; '(anzu
