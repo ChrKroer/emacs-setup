@@ -1,10 +1,13 @@
-;;(require 'cc-mode)
+(require 'cc-mode)
 
 (setq c-default-style "linux"
           c-basic-offset 2)
 
 
 (semantic-mode 1)
+
+;; (define-key c-mode-map  [(tab)] 'company-complete)
+;; (define-key c++-mode-map  [(tab)] 'company-complete)
 
 ;; (add-to-list 'company-backends 'company-c-headers)
 

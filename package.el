@@ -9,7 +9,7 @@
 (require 'cl)
 
 (defconst used-packages
-   '(               
+   '(
      ac-clang
      auctex
      auctex-latexmk
@@ -18,6 +18,7 @@
      company-c-headers
      ecb
      helm
+     helm-gtags
      solarized-theme
      ))
   ;; '(anzu
