@@ -20,6 +20,7 @@
      helm
      helm-gtags
      solarized-theme
+     smartparens
      ))
   ;; '(anzu
   ;;   company

@@ -85,7 +85,7 @@
       (ecb-methods-buffer-name 0.20817843866171004 . 0.29292929292929293)
       (ecb-history-buffer-name 0.20817843866171004 . 0.16161616161616163)))))
  '(ecb-options-version "2.40")
- '(package-selected-packages (quote (helm-gtags ecb solarized-theme)))
+ '(package-selected-packages (quote (smartparens helm-gtags ecb solarized-theme)))
  '(safe-local-variable-values
    (quote
     ((gdb-command-name . "gdb -d /Users/ckroer/Documents/research/equilibrium_computation/mirror_prox/libdub -i=mi local/solve")
