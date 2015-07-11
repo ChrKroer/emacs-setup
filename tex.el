@@ -1,4 +1,4 @@
-(add-hook 'LaTeX-mode-hook '(flyspell-mode t))
+;(add-hook 'LaTeX-mode-hook '(flyspell-mode t))
 ;; AucTeX
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)

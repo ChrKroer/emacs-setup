@@ -21,6 +21,7 @@
      helm-gtags
      solarized-theme
      smartparens
+     undo-tree
      ))
   ;; '(anzu
   ;;   company
