@@ -1,2 +1,2 @@
 # emacs-setup
-Deprecated. Use linx-emacs-setup.
+Deprecated. Use linux-emacs-setup.
